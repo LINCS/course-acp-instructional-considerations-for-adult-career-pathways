@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="619">
+    <name>top</name>
+    <contextid>57280</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>266</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+220405141926+wZzLvr</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="620">
+    <name>Default for Precourse Self-Assessment</name>
+    <contextid>57289</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>9013</contextinstanceid>
+    <info>The default category for questions shared in context 'Precourse Self-Assessment'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+210621200915+nKgZ65</stamp>
+    <parent>622</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+      <question id="2486">
+        <parent>0</parent>
+        <name>CourseDesign1</name>
+        <questiontext>&lt;p dir="ltr"&gt;I consider how to sequence activities and content using&amp;nbsp;&lt;span style="font-size: 1.7rem;"&gt;backward design.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>5.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+210621201458+NOCrnr</stamp>
+        <version>lincs-moodle-dev.civicactions.net+220202212116+f4bFnW</version>
+        <hidden>0</hidden>
+        <timecreated>1624306498</timecreated>
+        <timemodified>1643836876</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7698">
+              <answertext>Always</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7699">
+              <answertext>&lt;p&gt;Most of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.8000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7700">
+              <answertext>&lt;p&gt;Some of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.6000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7701">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occasionally&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.4000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7702">
+              <answertext>Rarely</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1357">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2487">
+        <parent>0</parent>
+        <name>CourseDesign2</name>
+        <questiontext>I consider and apply principles of adult learning to help learners acquire, retain, and transfer new knowledge and skills.</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>5.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+210621201630+nRt06Q</stamp>
+        <version>lincs-moodle-dev.civicactions.net+220202164535+DArYQu</version>
+        <hidden>0</hidden>
+        <timecreated>1624306590</timecreated>
+        <timemodified>1643820335</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7703">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Always&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7704">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Most of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.8000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7705">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.6000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7706">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occasionally&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.4000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7707">
+              <answertext>Rarely</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1358">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2488">
+        <parent>0</parent>
+        <name>BasicSkillsInstruction</name>
+        <questiontext>&lt;p dir="ltr"&gt;I&amp;nbsp;consider which basic skills students will practice and&amp;nbsp;&lt;span style="font-size: 1.7rem;"&gt;develop.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>5.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+210621201718+9rlCga</stamp>
+        <version>lincs-moodle-dev.civicactions.net+210621201718+5ckQ0F</version>
+        <hidden>0</hidden>
+        <timecreated>1624306638</timecreated>
+        <timemodified>1624306638</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7708">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Always&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7709">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Most of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.8000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7710">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.6000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7711">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occasionally&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.4000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7712">
+              <answertext>Rarely</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1359">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2489">
+        <parent>0</parent>
+        <name>SoftProfSkills</name>
+        <questiontext>&lt;p dir="ltr"&gt;I consider how students will have an opportunity to&amp;nbsp;&lt;span style="font-size: 1.7rem;"&gt;learn and practice soft or professional skills in a&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;meaningful context.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>5.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+210621201759+HmjQA5</stamp>
+        <version>lincs-moodle-dev.civicactions.net+210621201759+4NaI8B</version>
+        <hidden>0</hidden>
+        <timecreated>1624306679</timecreated>
+        <timemodified>1624306679</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7713">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Always&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7714">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Most of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.8000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7715">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.6000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7716">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occasionally&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.4000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7717">
+              <answertext>Rarely</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1360">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2490">
+        <parent>0</parent>
+        <name>WorkplaceSkills1</name>
+        <questiontext>&lt;p dir="ltr"&gt;I collaborate with or seek input from content or&amp;nbsp;&lt;span style="font-size: 1.7rem;"&gt;industry experts to inform unit or course content.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>5.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+210621201841+132LxE</stamp>
+        <version>lincs-moodle-dev.civicactions.net+210621201841+gMw8v0</version>
+        <hidden>0</hidden>
+        <timecreated>1624306721</timecreated>
+        <timemodified>1624306721</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7718">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Always&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7719">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Most of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.8000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7720">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.6000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7721">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occasionally&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.4000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7722">
+              <answertext>Rarely</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1361">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2491">
+        <parent>0</parent>
+        <name>WorkplaceSkills2</name>
+        <questiontext>&lt;p dir="ltr"&gt;I&amp;nbsp;consider how the skills and content relate to a career&amp;nbsp;&lt;span style="font-size: 1.7rem;"&gt;or the workplace in a meaningful context.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>5.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+210621201924+XSuq7n</stamp>
+        <version>lincs-moodle-dev.civicactions.net+210621201924+IFApBr</version>
+        <hidden>0</hidden>
+        <timecreated>1624306764</timecreated>
+        <timemodified>1624306764</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7723">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Always&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7724">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Most of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.8000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7725">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.6000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7726">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occasionally&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.4000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7727">
+              <answertext>Rarely</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1362">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2492">
+        <parent>0</parent>
+        <name>DigitalSkills</name>
+        <questiontext>&lt;p dir="ltr"&gt;I consider how students will have an opportunity digital&amp;nbsp;&lt;span style="font-size: 1.7rem;"&gt;literacy and technology skills in a meaningful context.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>5.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+210621201957+ByzNMk</stamp>
+        <version>lincs-moodle-dev.civicactions.net+210621201957+ab9FJk</version>
+        <hidden>0</hidden>
+        <timecreated>1624306797</timecreated>
+        <timemodified>1624306797</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7728">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Always&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7729">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Most of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.8000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7730">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.6000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7731">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occasionally&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.4000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7732">
+              <answertext>Rarely</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1363">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2493">
+        <parent>0</parent>
+        <name>Assessments1</name>
+        <questiontext>&lt;p dir="ltr"&gt;I consider how students will have multiple&amp;nbsp;&lt;span style="font-size: 1.7rem;"&gt;opportunities to demonstrate or share what they have&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: 1.7rem;"&gt;learned.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>5.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+210621202026+k6nbfF</stamp>
+        <version>lincs-moodle-dev.civicactions.net+210621202026+wbg2N1</version>
+        <hidden>0</hidden>
+        <timecreated>1624306826</timecreated>
+        <timemodified>1624306826</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7733">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Always&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7734">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Most of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.8000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7735">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.6000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7736">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occasionally&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.4000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7737">
+              <answertext>Rarely</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1364">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2494">
+        <parent>0</parent>
+        <name>Assessments2</name>
+        <questiontext>&lt;p dir="ltr"&gt;I consider formative assessments in a realistic and&amp;nbsp;&lt;span style="font-size: 1.7rem;"&gt;meaningful context to evaluate student learning.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>5.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+210621202046+8YHdUg</stamp>
+        <version>lincs-moodle-dev.civicactions.net+210621202046+U5nOpr</version>
+        <hidden>0</hidden>
+        <timecreated>1624306846</timecreated>
+        <timemodified>1624306846</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7738">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Always&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7739">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Most of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.8000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7740">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Some of the time&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.6000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7741">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Occasionally&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.4000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7742">
+              <answertext>Rarely</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1365">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>none</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="621">
+    <name>Default for LRCT5.1SB3</name>
+    <contextid>57280</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>266</contextinstanceid>
+    <info>The default category for questions shared in context 'LRCT5.1SB3'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+210621200915+T6uU2Z</stamp>
+    <parent>619</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="622">
+    <name>top</name>
+    <contextid>57289</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>9013</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+220405141928+5SGGYr</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

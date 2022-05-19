@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="7" moduleid="9018" modulename="h5pactivity" contextid="57294">
+  <h5pactivity id="7">
+    <name>Learning Check 1</name>
+    <timecreated>1624301943</timecreated>
+    <timemodified>1649182553</timemodified>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;You’re more than halfway to completing this course! Let’s take a moment for a knowledge check and review on the previous units. Once finished, select the link titled "Unit 4: Teacher Competencies for Adult Career Pathways" at the bottom to move to the next section.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <grade>100</grade>
+    <displayoptions>15</displayoptions>
+    <enabletracking>1</enabletracking>
+    <grademethod>1</grademethod>
+    <reviewmode>1</reviewmode>
+    <attempts>
+      <attempt id="21">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>26887</userid>
+        <timecreated>1650298681</timecreated>
+        <timemodified>1650298681</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>238</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="118">
+            <attemptid>21</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650298681</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>238</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="119">
+            <attemptid>21</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1650298681</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["1[,]0"]</correctpattern>
+            <response>1[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}},{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}},{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>238</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="120">
+            <attemptid>21</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1650298681</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["3[,]0[,]2"]</correctpattern>
+            <response>3[,]0[,]2</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"2","description":{"en-US":"Employability skills\n"}},{"id":"4","description":{"en-US":"Extended standards\n"}},{"id":"1","description":{"en-US":"Health education or physical education standards\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>31</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="121">
+            <attemptid>21</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1650298681</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["4[,]0[,]2[,]1"]</correctpattern>
+            <response>4[,]0[,]2[,]1</response>
+            <additionals>{"choices":[{"id":"4","description":{"en-US":"Visible thinking routines\n"}},{"id":"0","description":{"en-US":"Active learning strategies\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}},{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"1","description":{"en-US":"Problem-based learning\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>16</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="34">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>28215</userid>
+        <timecreated>1650907234</timecreated>
+        <timemodified>1650907234</timemodified>
+        <attempt>1</attempt>
+        <rawscore>0</rawscore>
+        <maxscore>3</maxscore>
+        <duration>316</duration>
+        <completion>1</completion>
+        <success>0</success>
+        <scaled>0.00000</scaled>
+        <results>
+          <result id="201">
+            <attemptid>34</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650907234</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>3</maxscore>
+            <duration>316</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="202">
+            <attemptid>34</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1650907234</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["1[,]0"]</correctpattern>
+            <response>1</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}},{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>316</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="203">
+            <attemptid>34</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1650907234</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["0[,]2[,]3"]</correctpattern>
+            <response>0</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"2","description":{"en-US":"Employability skills\n"}},{"id":"1","description":{"en-US":"Health education or physical education standards\n"}},{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"4","description":{"en-US":"Extended standards\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>18</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="204">
+            <attemptid>34</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1650907234</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["0[,]2[,]1[,]4"]</correctpattern>
+            <response>0</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"0","description":{"en-US":"Active learning strategies\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}},{"id":"1","description":{"en-US":"Problem-based learning\n"}},{"id":"4","description":{"en-US":"Visible thinking routines\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>13</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="35">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>28215</userid>
+        <timecreated>1650908087</timecreated>
+        <timemodified>1650908087</timemodified>
+        <attempt>2</attempt>
+        <rawscore>2</rawscore>
+        <maxscore>3</maxscore>
+        <duration>1170</duration>
+        <completion>1</completion>
+        <success>0</success>
+        <scaled>0.66667</scaled>
+        <results>
+          <result id="205">
+            <attemptid>35</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650908087</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>2</rawscore>
+            <maxscore>3</maxscore>
+            <duration>1170</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="206">
+            <attemptid>35</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1650908087</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["1[,]0"]</correctpattern>
+            <response>1[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}},{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>1169</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="207">
+            <attemptid>35</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1650908087</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["3[,]0[,]2"]</correctpattern>
+            <response>0[,]3</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"1","description":{"en-US":"Health education or physical education standards\n"}},{"id":"2","description":{"en-US":"Employability skills\n"}},{"id":"4","description":{"en-US":"Extended standards\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>871</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="208">
+            <attemptid>35</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1650908087</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["1[,]2[,]4[,]0"]</correctpattern>
+            <response>2[,]0[,]4[,]1</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Problem-based learning\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"4","description":{"en-US":"Visible thinking routines\n"}},{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}},{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"0","description":{"en-US":"Active learning strategies\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>866</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="38">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>28215</userid>
+        <timecreated>1650910990</timecreated>
+        <timemodified>1650910990</timemodified>
+        <attempt>3</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>204</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="223">
+            <attemptid>38</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650910990</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>204</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="224">
+            <attemptid>38</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1650910990</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["1[,]0"]</correctpattern>
+            <response>1[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}},{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>204</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="225">
+            <attemptid>38</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1650910990</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["3[,]0[,]2"]</correctpattern>
+            <response>2[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"4","description":{"en-US":"Extended standards\n"}},{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"1","description":{"en-US":"Health education or physical education standards\n"}},{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"2","description":{"en-US":"Employability skills\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>154</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="226">
+            <attemptid>38</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1650910990</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["1[,]0[,]2[,]4"]</correctpattern>
+            <response>0[,]2[,]1[,]4</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Problem-based learning\n"}},{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}},{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"0","description":{"en-US":"Active learning strategies\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"4","description":{"en-US":"Visible thinking routines\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>138</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="43">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>28210</userid>
+        <timecreated>1650987260</timecreated>
+        <timemodified>1650987260</timemodified>
+        <attempt>1</attempt>
+        <rawscore>0</rawscore>
+        <maxscore>3</maxscore>
+        <duration>57</duration>
+        <completion>1</completion>
+        <success>0</success>
+        <scaled>0.00000</scaled>
+        <results>
+          <result id="253">
+            <attemptid>43</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650987260</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>3</maxscore>
+            <duration>57</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="254">
+            <attemptid>43</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1650987260</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["0[,]1"]</correctpattern>
+            <response>0</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}},{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>57</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="255">
+            <attemptid>43</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1650987260</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["3[,]0[,]2"]</correctpattern>
+            <response>2[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Health education or physical education standards\n"}},{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"2","description":{"en-US":"Employability skills\n"}},{"id":"4","description":{"en-US":"Extended standards\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>33</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="256">
+            <attemptid>43</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1650987260</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["0[,]1[,]4[,]2"]</correctpattern>
+            <response>2[,]0</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"0","description":{"en-US":"Active learning strategies\n"}},{"id":"1","description":{"en-US":"Problem-based learning\n"}},{"id":"4","description":{"en-US":"Visible thinking routines\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>18</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="44">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>28210</userid>
+        <timecreated>1650987302</timecreated>
+        <timemodified>1650987302</timemodified>
+        <attempt>2</attempt>
+        <rawscore>2</rawscore>
+        <maxscore>3</maxscore>
+        <duration>99</duration>
+        <completion>1</completion>
+        <success>0</success>
+        <scaled>0.66667</scaled>
+        <results>
+          <result id="257">
+            <attemptid>44</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650987302</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>2</rawscore>
+            <maxscore>3</maxscore>
+            <duration>99</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="258">
+            <attemptid>44</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1650987302</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["0[,]1"]</correctpattern>
+            <response>1</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}},{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>99</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="259">
+            <attemptid>44</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1650987302</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["3[,]0[,]2"]</correctpattern>
+            <response>3[,]0[,]2</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Health education or physical education standards\n"}},{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"2","description":{"en-US":"Employability skills\n"}},{"id":"4","description":{"en-US":"Extended standards\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>75</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="260">
+            <attemptid>44</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1650987302</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["0[,]1[,]4[,]2"]</correctpattern>
+            <response>2[,]4[,]1[,]0</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"0","description":{"en-US":"Active learning strategies\n"}},{"id":"1","description":{"en-US":"Problem-based learning\n"}},{"id":"4","description":{"en-US":"Visible thinking routines\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>60</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="45">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>28210</userid>
+        <timecreated>1650988837</timecreated>
+        <timemodified>1650988837</timemodified>
+        <attempt>3</attempt>
+        <rawscore>1</rawscore>
+        <maxscore>3</maxscore>
+        <duration>38</duration>
+        <completion>1</completion>
+        <success>0</success>
+        <scaled>0.33333</scaled>
+        <results>
+          <result id="261">
+            <attemptid>45</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650988837</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>3</maxscore>
+            <duration>38</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="262">
+            <attemptid>45</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1650988837</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["0[,]1"]</correctpattern>
+            <response>1</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}},{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}},{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>38</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="263">
+            <attemptid>45</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1650988837</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["3[,]0[,]2"]</correctpattern>
+            <response>3[,]0[,]2</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"1","description":{"en-US":"Health education or physical education standards\n"}},{"id":"4","description":{"en-US":"Extended standards\n"}},{"id":"2","description":{"en-US":"Employability skills\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>19</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="264">
+            <attemptid>45</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1650988837</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["0[,]4[,]2[,]1"]</correctpattern>
+            <response>0[,]1</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Active learning strategies\n"}},{"id":"4","description":{"en-US":"Visible thinking routines\n"}},{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"1","description":{"en-US":"Problem-based learning\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>7</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="46">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>28210</userid>
+        <timecreated>1650988871</timecreated>
+        <timemodified>1650988871</timemodified>
+        <attempt>4</attempt>
+        <rawscore>2</rawscore>
+        <maxscore>3</maxscore>
+        <duration>73</duration>
+        <completion>1</completion>
+        <success>0</success>
+        <scaled>0.66667</scaled>
+        <results>
+          <result id="265">
+            <attemptid>46</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650988871</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>2</rawscore>
+            <maxscore>3</maxscore>
+            <duration>73</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="266">
+            <attemptid>46</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1650988871</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["0[,]1"]</correctpattern>
+            <response>1[,]0</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}},{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}},{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>73</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="267">
+            <attemptid>46</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1650988871</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["3[,]0[,]2"]</correctpattern>
+            <response>3[,]0[,]2</response>
+            <additionals>{"choices":[{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"1","description":{"en-US":"Health education or physical education standards\n"}},{"id":"4","description":{"en-US":"Extended standards\n"}},{"id":"2","description":{"en-US":"Employability skills\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>53</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="268">
+            <attemptid>46</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1650988871</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["0[,]4[,]2[,]1"]</correctpattern>
+            <response>0[,]1</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Active learning strategies\n"}},{"id":"4","description":{"en-US":"Visible thinking routines\n"}},{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"1","description":{"en-US":"Problem-based learning\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>41</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="86">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>28288</userid>
+        <timecreated>1652123317</timecreated>
+        <timemodified>1652123317</timemodified>
+        <attempt>1</attempt>
+        <rawscore>2</rawscore>
+        <maxscore>3</maxscore>
+        <duration>55</duration>
+        <completion>1</completion>
+        <success>0</success>
+        <scaled>0.66667</scaled>
+        <results>
+          <result id="503">
+            <attemptid>86</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652123317</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>2</rawscore>
+            <maxscore>3</maxscore>
+            <duration>55</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+          <result id="504">
+            <attemptid>86</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1652123317</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["0[,]1"]</correctpattern>
+            <response>1[,]0</response>
+            <additionals>{"choices":[{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}},{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}},{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>55</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="505">
+            <attemptid>86</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1652123317</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["0[,]3[,]2"]</correctpattern>
+            <response>0[,]3[,]2</response>
+            <additionals>{"choices":[{"id":"4","description":{"en-US":"Extended standards\n"}},{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"2","description":{"en-US":"Employability skills\n"}},{"id":"1","description":{"en-US":"Health education or physical education standards\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>32</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="506">
+            <attemptid>86</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1652123317</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["2[,]1[,]0[,]4"]</correctpattern>
+            <response>0[,]4[,]1</response>
+            <additionals>{"choices":[{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"1","description":{"en-US":"Problem-based learning\n"}},{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"0","description":{"en-US":"Active learning strategies\n"}},{"id":"4","description":{"en-US":"Visible thinking routines\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>0</rawscore>
+            <maxscore>1</maxscore>
+            <duration>10</duration>
+            <completion>1</completion>
+            <success>0</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="87">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>28288</userid>
+        <timecreated>1652123385</timecreated>
+        <timemodified>1652123385</timemodified>
+        <attempt>2</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>122</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="507">
+            <attemptid>87</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652123385</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>122</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="508">
+            <attemptid>87</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1652123385</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["0[,]1"]</correctpattern>
+            <response>1[,]0</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}},{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>122</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="509">
+            <attemptid>87</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1652123385</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["0[,]3[,]2"]</correctpattern>
+            <response>0[,]3[,]2</response>
+            <additionals>{"choices":[{"id":"4","description":{"en-US":"Extended standards\n"}},{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"2","description":{"en-US":"Employability skills\n"}},{"id":"1","description":{"en-US":"Health education or physical education standards\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>99</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="510">
+            <attemptid>87</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1652123385</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["1[,]0[,]2[,]4"]</correctpattern>
+            <response>1[,]0[,]2[,]4</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Problem-based learning\n"}},{"id":"0","description":{"en-US":"Active learning strategies\n"}},{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}},{"id":"4","description":{"en-US":"Visible thinking routines\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>77</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="124">
+        <h5pactivityid>7</h5pactivityid>
+        <userid>26631</userid>
+        <timecreated>1652636346</timecreated>
+        <timemodified>1652636346</timemodified>
+        <attempt>1</attempt>
+        <rawscore>3</rawscore>
+        <maxscore>3</maxscore>
+        <duration>60</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="704">
+            <attemptid>124</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652636346</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9},"contextExtensions":{}}</additionals>
+            <rawscore>3</rawscore>
+            <maxscore>3</maxscore>
+            <duration>60</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="705">
+            <attemptid>124</attemptid>
+            <subcontent>f677be34-9ec1-4163-afc0-000de25cf972</subcontent>
+            <timecreated>1652636346</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>Which are benefits of contextualized instruction in adult career pathways as discussed in Units 1, 2, and 3? Choose all that apply.
+</description>
+            <correctpattern>["1[,]0"]</correctpattern>
+            <response>1[,]0</response>
+            <additionals>{"choices":[{"id":"1","description":{"en-US":"Allows for non-traditional students to access in-demand jobs \n"}},{"id":"0","description":{"en-US":"Help adults with low basic skills earn valued occupational credentials, obtain well-paying jobs, and sustain rewarding careers\n"}},{"id":"2","description":{"en-US":"Gives employers an opportunity to hire from within their community\n"}},{"id":"3","description":{"en-US":"Students are exposed to authentic workplace content\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f677be34-9ec1-4163-afc0-000de25cf972"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>60</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="706">
+            <attemptid>124</attemptid>
+            <subcontent>310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9</subcontent>
+            <timecreated>1652636346</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which content standards or skills are integrated or included in contextualized instruction in adult career pathways? Choose all that apply.
+</description>
+            <correctpattern>["2[,]0[,]3"]</correctpattern>
+            <response>2[,]0[,]3</response>
+            <additionals>{"choices":[{"id":"2","description":{"en-US":"Employability skills\n"}},{"id":"0","description":{"en-US":"Career or technical skills\n"}},{"id":"3","description":{"en-US":"Academic knowledge or basic skills\n"}},{"id":"4","description":{"en-US":"Extended standards\n"}},{"id":"1","description":{"en-US":"Health education or physical education standards\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"310e34ce-7b83-4fb4-a4b4-cfc51d15b8f9"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>34</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="707">
+            <attemptid>124</attemptid>
+            <subcontent>e94846a0-ad7b-488f-815e-8138f8f99514</subcontent>
+            <timecreated>1652636346</timecreated>
+            <interactiontype>choice</interactiontype>
+            <description>From the list below, which learning and instructional strategies should be included in contextualized instruction for ACPs? Choose all that apply. 
+</description>
+            <correctpattern>["1[,]4[,]2[,]0"]</correctpattern>
+            <response>1[,]4[,]2[,]0</response>
+            <additionals>{"choices":[{"id":"5","description":{"en-US":"Self-paced study of all content standards and skill areas\n"}},{"id":"1","description":{"en-US":"Problem-based learning\n"}},{"id":"4","description":{"en-US":"Visible thinking routines\n"}},{"id":"2","description":{"en-US":"Project-based learning\n"}},{"id":"3","description":{"en-US":"3 hours lecatures on technical or career topic\n"}},{"id":"0","description":{"en-US":"Active learning strategies\n"}}],"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":9,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"e94846a0-ad7b-488f-815e-8138f8f99514"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>19</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+    </attempts>
+  </h5pactivity>
+</activity>

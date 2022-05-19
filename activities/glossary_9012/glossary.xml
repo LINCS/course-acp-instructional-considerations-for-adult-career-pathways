@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="15" moduleid="9012" modulename="glossary" contextid="57288">
+  <glossary id="15">
+    <name>ACP Glossary of Key Terms</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;The glossary contains the same terms and definitions for all three courses in the ACP series. It is intended to aid in your understanding of new vocabulary and critical concepts introduced in the courses.&amp;nbsp;At any point during the course, return here to refer to the ACP Glossary of Key Terms to check your understanding of concepts.&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <allowduplicatedentries>0</allowduplicatedentries>
+    <displayformat>dictionary</displayformat>
+    <mainglossary>1</mainglossary>
+    <showspecial>0</showspecial>
+    <showalphabet>1</showalphabet>
+    <showall>1</showall>
+    <allowcomments>0</allowcomments>
+    <allowprintview>1</allowprintview>
+    <usedynalink>1</usedynalink>
+    <defaultapproval>0</defaultapproval>
+    <globalglossary>0</globalglossary>
+    <entbypage>10</entbypage>
+    <editalways>0</editalways>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <timecreated>1624309657</timecreated>
+    <timemodified>1626725061</timemodified>
+    <completionentries>0</completionentries>
+    <entries>
+      <entry id="182">
+        <userid>12905</userid>
+        <concept>adult career pathways</concept>
+        <definition>&lt;p dir="ltr" style="text-align:left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;b&gt;adult career pathways&amp;nbsp;&lt;/b&gt;a combination of rigorous and high-quality education, training, and other services that:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;aligns with skill needs of industries in the economy of the State or regional economy involved;&amp;nbsp;&lt;/li&gt;&lt;li&gt;prepares an individual to be successful in any of a full range of secondary or post-secondary education options, including apprenticeships registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.)&amp;nbsp;&lt;/li&gt;&lt;li&gt;includes counseling to support an individual in achieving the individual’s education and career goals;&amp;nbsp;&lt;/li&gt;&lt;li&gt;includes, as appropriate, education offered concurrently with and in the same context as workforce preparation and training for a specific occupation or career cluster;&lt;/li&gt;&lt;li&gt;organizes education, training, and other services to meet the particular needs of an individual that accelerates the educational and career advancement of the individual to the extent practicable;&lt;/li&gt;&lt;li&gt;enables an individual to attain a secondary school diploma or its recognized equivalent, and at least 1 recognized postsecondary credential; and,&amp;nbsp;&lt;/li&gt;&lt;li&gt;helps an individual enter or advance within a specific occupation or occupational cluster. [1]&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;hr align="left" size="1" width="33%"&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;[1] Workforce, Innovation, and Opportunity Act, HR 803, § 3 (2014).&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="183">
+        <userid>12905</userid>
+        <concept>adult education programs</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;adult
+education programs &lt;/b&gt;provide academic instruction and education
+services below the postsecondary level that increase an individual’s ability
+to: read, write, and speak in English and perform mathematics or other
+activities necessary for the attainment of a secondary school diploma or its
+recognized equivalent; transition to postsecondary education and training; and
+obtain employment.&lt;/p&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="184">
+        <userid>12905</userid>
+        <concept>basic skills</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;basic
+skills &lt;/b&gt;refers to foundational/prerequisite skills—typically in
+reading, writing, and math—necessary for students to succeed in career and
+technical education coursework.&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="185">
+        <userid>12905</userid>
+        <concept>braided funding</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;braided
+funding &lt;/b&gt;is the weaving together of various federal, state, and
+private funding streams and resources.&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="186">
+        <userid>12905</userid>
+        <concept>bridge program</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;bridge
+program &lt;/b&gt;provides basic (or prerequisite) skills training required
+for students to pursue occupational coursework. Bridge programs act as
+pre-college or pre-pathway onramps to occupational training, and are sometimes
+referred to as “pre-pathway bridge programs.”&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="187">
+        <userid>12905</userid>
+        <concept>career and technical education (CTE)</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;career
+and technical education (CTE)&lt;/b&gt;, as defined in the Strengthening Career and Technical
+Education for the 21st Century Act (Perkins V), is organized educational
+activities that:&amp;nbsp;&lt;/p&gt;&lt;p&gt;(A) offer a sequence of courses that—(i) provides individuals
+with rigorous academic content and relevant technical knowledge and skills
+needed to prepare for further education and careers in current or emerging
+professions, which may include high-skill, high-wage, or in-demand industry
+sectors or occupations, which shall be, at the secondary level, aligned with
+the challenging State academic standards adopted by a State (ii) provides
+technical skill proficiency or a recognized postsecondary credential, which may
+include an industry-recognized credential, a certificate, or an associate
+degree; and (iii) may include prerequisite courses (other than a remedial
+course) that meet the requirements of this subparagraph;&amp;nbsp;&lt;/p&gt;&lt;p&gt;(B) include
+competency-based, work-based, or other applied learning that supports the
+development of academic knowledge, higher-order reasoning and problem-solving
+skills, work attitudes, employability skills, technical skills, and
+occupation-specific skills, and knowledge of all aspects of an industry,
+including entrepreneurship, of an individual;&amp;nbsp;&lt;/p&gt;&lt;p&gt;(C) to the extent practicable,
+coordinate between secondary and postsecondary education programs through
+programs of study, which may include coordination through articulation
+agreements, early college high school programs, dual or concurrent enrollment
+program opportunities, or other credit transfer agreements that provide
+postsecondary credit or advanced standing; and&amp;nbsp;&lt;/p&gt;&lt;p&gt;(D) may include career
+exploration at the high school level or as early as the middle grades.&lt;/p&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="188">
+        <userid>12905</userid>
+        <concept>career lattices</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;career lattices &lt;/b&gt;(also referred to as career
+ladders) help people visualize the potential job pathways available as they
+progress through a career by graphically depicting the occupations and
+developmental experiences within an industry. They consist of a group of
+related jobs that make up a career, and often include a pictorial
+representation of job progression in a career as well as detailed descriptions
+of the jobs and the experiences that facilitate movement between jobs.&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="189">
+        <userid>12905</userid>
+        <concept>career navigator</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;career
+navigator &lt;/b&gt;is a student support staff member who primarily assists
+students in clarifying and linking academic, personal, and professional goals
+in relation to a particular occupation.&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="190">
+        <userid>12905</userid>
+        <concept>contextualized instruction</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;contextualized
+instruction &lt;/b&gt;refers to instructional strategies that make explicit
+connections between learning of basic skills and occupational content.&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="191">
+        <userid>12905</userid>
+        <concept>employer engagement/partnerships</concept>
+        <definition>&lt;p dir="ltr" style="text-align:left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;employer
+engagement/partnerships&lt;/b&gt; in adult career pathways programs can strengthen the efforts
+of adult educators and their programs to help learners attain secondary
+credentials, transition to postsecondary programs, achieve industry
+credentials, and secure family-sustaining employment. See the list below for
+several examples of contributions that employers can make to support ACPs.&lt;/p&gt;&lt;p&gt;Employers can support:&lt;/p&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;workplace relevant curriculum&lt;/li&gt;&lt;li&gt;career awareness activities&lt;/li&gt;&lt;li&gt;work-based learning opportunities&lt;/li&gt;&lt;li&gt;obtainment of equipment (including by donation)&lt;/li&gt;&lt;li&gt;class guest lectures&lt;/li&gt;&lt;li&gt;instructor exchange programs&lt;/li&gt;&lt;li&gt;certifications&lt;/li&gt;&lt;li&gt;extension of your employer network via their
+supply chain or vendors &lt;/li&gt;&lt;li&gt;increase of employment opportunities for adult
+learners [1]&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;div&gt;&lt;br clear="all"&gt;&lt;hr align="left" size="1" width="33%"&gt;&lt;div&gt;&lt;p&gt;[1]&amp;nbsp;&lt;span style="font-size: 1.7rem;"&gt;Endel, B. (2021). &lt;/span&gt;&lt;i style="font-size: 1.7rem;"&gt;Building strategic partnerships:
+Engaging employers&lt;/i&gt;&lt;span style="font-size: 1.7rem;"&gt;.&amp;nbsp;&lt;/span&gt;&lt;a href="https://courses.lincs.ed.gov/static/about.html#careerpathways" style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;https://courses.lincs.ed.gov/static/about.html#careerpathways&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="192">
+        <userid>12905</userid>
+        <concept>future of work</concept>
+        <definition>&lt;p dir="ltr" style="text-align:left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;future
+of work&lt;i&gt;: &lt;/i&gt;&lt;/b&gt;Technological advances can create enormous economic
+and other benefits but can also lead to significant changes for workers. IT and
+automation can change the way work is conducted, by augmenting or replacing
+workers in specific tasks. This can shift the demand for some types of human
+labor, eliminating some jobs and creating new ones. Advances in fields such as
+artificial intelligence and robotics are making it increasingly possible for
+machines to perform not only physical but also cognitive tasks currently
+performed by humans. These developments have led to widespread interest in the
+future of work.[1]&lt;/p&gt;&lt;div&gt;&lt;br clear="all"&gt;&lt;hr align="left" size="1" width="33%"&gt;&lt;div&gt;&lt;p&gt;[1] National Academies of Sciences, Engineering, and Medicine (2017).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="193">
+        <userid>12905</userid>
+        <concept>integrated basic skills instruction</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;integrated
+basic skills instruction &lt;/b&gt;refers to a curriculum design where basic
+skills instruction and occupational content instruction are delivered
+simultaneously, often by a team comprising a basic skills instructor and an
+occupational content instructor.&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="194">
+        <userid>12905</userid>
+        <concept>labor market information</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;labor
+market information &lt;/b&gt;refers to data and other information from
+employers that can be used to understand labor market conditions and trends in
+a particular industry and geographical area.&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+      <entry id="195">
+        <userid>12905</userid>
+        <concept>stackable credentials</concept>
+        <definition>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;&lt;b&gt;stackable
+credentials &lt;/b&gt;are credentials that can be accumulated over time and
+move a student/worker along a career pathway or up a career ladder.&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</definition>
+        <definitionformat>1</definitionformat>
+        <definitiontrust>0</definitiontrust>
+        <attachment></attachment>
+        <timecreated>1649191752</timecreated>
+        <timemodified>1649191752</timemodified>
+        <teacherentry>1</teacherentry>
+        <sourceglossaryid>0</sourceglossaryid>
+        <usedynalink>0</usedynalink>
+        <casesensitive>0</casesensitive>
+        <fullmatch>0</fullmatch>
+        <approved>1</approved>
+        <aliases>
+        </aliases>
+        <ratings>
+        </ratings>
+      </entry>
+    </entries>
+    <entriestags>
+    </entriestags>
+    <categories>
+    </categories>
+  </glossary>
+</activity>

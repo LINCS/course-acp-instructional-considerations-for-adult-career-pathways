@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="211" moduleid="9020" modulename="resource" contextid="57296">
+  <resource id="211">
+    <name>Unit 5: Lesson Planning for Adult Career Pathways</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in&lt;span&gt; &lt;span&gt;this&lt;/span&gt; &lt;/span&gt;browser window.&amp;nbsp;Alternate viewing option: &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/57296/mod_resource/content/25/content/index.html" target="_blank"&gt;Open the unit in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>27</revision>
+    <timemodified>1649196363</timemodified>
+  </resource>
+</activity>

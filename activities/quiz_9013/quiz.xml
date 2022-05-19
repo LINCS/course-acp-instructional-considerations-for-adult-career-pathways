@@ -1,0 +1,4092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="144" moduleid="9013" modulename="quiz" contextid="57289">
+  <quiz id="144">
+    <name>Precourse Self-Assessment</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;How much do you
+know about or focus on contextualized instruction?&lt;/b&gt; &lt;br&gt;
+Take a moment to reflect on your current lesson planning process and your
+understanding of contextualized instruction. For each factor, select the rating
+that best reflects your current lesson planning process. When you are finished,
+click on “Check my answers” to view your score and suggestions to increase your
+skill and knowledge.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>0</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>0</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>0</reviewspecificfeedback>
+    <reviewgeneralfeedback>0</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4096</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>0</shuffleanswers>
+    <sumgrades>45.00000</sumgrades>
+    <grade>45.00000</grade>
+    <timecreated>1624306146</timecreated>
+    <timemodified>1624309057</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="1040">
+        <slot>8</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2493</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>5.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1041">
+        <slot>9</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2494</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>5.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1042">
+        <slot>3</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2488</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>5.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1043">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2486</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>5.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1044">
+        <slot>2</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2487</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>5.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1045">
+        <slot>7</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2492</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>5.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1046">
+        <slot>4</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2489</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>5.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1047">
+        <slot>5</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2490</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>5.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1048">
+        <slot>6</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2491</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>5.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="113">
+        <firstslot>1</firstslot>
+        <heading>Course Design</heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+      <section id="114">
+        <firstslot>3</firstslot>
+        <heading>Basic Skills Instruction</heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+      <section id="115">
+        <firstslot>4</firstslot>
+        <heading>Soft or Professional Skills Instruction</heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+      <section id="116">
+        <firstslot>5</firstslot>
+        <heading>Career or Workplace Skills Instruction</heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+      <section id="117">
+        <firstslot>7</firstslot>
+        <heading>Digital or Technical Skills Instruction</heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+      <section id="118">
+        <firstslot>8</firstslot>
+        <heading>Assessments</heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="195">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 1.7rem;"&gt;On the right track!
+You have a solid understanding of contextualized instruction and its link to adult
+career pathways.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>35.10000</mingrade>
+        <maxgrade>46.00000</maxgrade>
+      </feedback>
+      <feedback id="196">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span&gt;&lt;span style=""&gt;You are almost there! Check out the extended
+learning activities in the course to continue building your skills. You can
+also take notes with the &lt;/span&gt;&lt;span&gt;&lt;a href="https://drive.google.com/file/d/1BZmEqg1r47vkgpruFhqC4w6ZbBBVehSR/view?usp=sharing" target="_blank"&gt;note-taking guide&lt;/a&gt;&lt;/span&gt;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>21.15000</mingrade>
+        <maxgrade>35.10000</maxgrade>
+      </feedback>
+      <feedback id="197">
+        <feedbacktext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span&gt;Be sure to explore the resources and extended learning activities listed in each section. You can also take notes with the&amp;nbsp;&lt;/span&gt;&lt;a href="https://drive.google.com/file/d/1BZmEqg1r47vkgpruFhqC4w6ZbBBVehSR/view?usp=sharing"&gt;&lt;/a&gt;&lt;span&gt;&lt;a href="https://drive.google.com/file/d/1BZmEqg1r47vkgpruFhqC4w6ZbBBVehSR/view?usp=sharing" target="_blank"&gt;note-taking guide&lt;/a&gt;&lt;/span&gt;.&lt;br&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>21.15000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+      <grade id="29120">
+        <userid>26887</userid>
+        <gradeval>44.00000</gradeval>
+        <timemodified>1650298251</timemodified>
+      </grade>
+      <grade id="29239">
+        <userid>28210</userid>
+        <gradeval>26.00000</gradeval>
+        <timemodified>1650987124</timemodified>
+      </grade>
+      <grade id="29402">
+        <userid>28288</userid>
+        <gradeval>33.00000</gradeval>
+        <timemodified>1652122635</timemodified>
+      </grade>
+      <grade id="29544">
+        <userid>26631</userid>
+        <gradeval>42.00000</gradeval>
+        <timemodified>1652635861</timemodified>
+      </grade>
+      <grade id="29645">
+        <userid>28338</userid>
+        <gradeval>34.00000</gradeval>
+        <timemodified>1652928906</timemodified>
+      </grade>
+    </grades>
+    <attempts>
+      <attempt id="45605">
+        <userid>918</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>45638</uniqueid>
+        <layout>1,2,0,3,0,4,0,5,6,0,7,0,8,9,0</layout>
+        <currentpage>0</currentpage>
+        <preview>0</preview>
+        <state>inprogress</state>
+        <timestart>1649361365</timestart>
+        <timefinish>0</timefinish>
+        <timemodified>1649361365</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>$@NULL@$</sumgrades>
+        <question_usage id="45638">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="229365">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2486</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how to sequence activities and content using backward design.
+: Always; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1649361365</timemodified>
+              <steps>
+                <step id="685323">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1649361365</timecreated>
+                  <userid>918</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7698,7699,7700,7701,7702</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229366">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2487</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider and apply principles of adult learning to help learners acquire, retain, and transfer new knowledge and skills.: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1649361365</timemodified>
+              <steps>
+                <step id="685324">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1649361365</timecreated>
+                  <userid>918</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7703,7704,7705,7706,7707</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229367">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2488</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider which basic skills students will practice and develop.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1649361365</timemodified>
+              <steps>
+                <step id="685325">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1649361365</timecreated>
+                  <userid>918</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7708,7709,7710,7711,7712</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229368">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2489</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity to learn and practice soft or professional skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1649361365</timemodified>
+              <steps>
+                <step id="685326">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1649361365</timecreated>
+                  <userid>918</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7713,7714,7715,7716,7717</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229369">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2490</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I collaborate with or seek input from content or industry experts to inform unit or course content. 
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1649361365</timemodified>
+              <steps>
+                <step id="685327">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1649361365</timecreated>
+                  <userid>918</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7718,7719,7720,7721,7722</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229370">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2491</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how the skills and content relate to a career or the workplace in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1649361365</timemodified>
+              <steps>
+                <step id="685328">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1649361365</timecreated>
+                  <userid>918</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7723,7724,7725,7726,7727</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229371">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2492</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity digital literacy and technology skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1649361365</timemodified>
+              <steps>
+                <step id="685329">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1649361365</timecreated>
+                  <userid>918</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7728,7729,7730,7731,7732</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229372">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2493</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have multiple opportunities to demonstrate or share what they have learned.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1649361365</timemodified>
+              <steps>
+                <step id="685330">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1649361365</timecreated>
+                  <userid>918</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7733,7734,7735,7736,7737</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229373">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2494</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider formative assessments in a realistic and meaningful context to evaluate student learning.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>$@NULL@$</responsesummary>
+              <timemodified>1649361365</timemodified>
+              <steps>
+                <step id="685331">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1649361365</timecreated>
+                  <userid>918</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7738,7739,7740,7741,7742</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="45693">
+        <userid>26887</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>45726</uniqueid>
+        <layout>1,2,0,3,0,4,0,5,6,0,7,0,8,9,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1650297957</timestart>
+        <timefinish>1650298121</timefinish>
+        <timemodified>1650298121</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>31.00000</sumgrades>
+        <question_usage id="45726">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="229891">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2486</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how to sequence activities and content using backward design.
+: Always; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always</rightanswer>
+              <responsesummary>Occasionally
+
+</responsesummary>
+              <timemodified>1650298121</timemodified>
+              <steps>
+                <step id="686867">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650297957</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7698,7699,7700,7701,7702</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686878">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298002</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686890">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.4000000</fraction>
+                  <timecreated>1650298121</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229892">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2487</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider and apply principles of adult learning to help learners acquire, retain, and transfer new knowledge and skills.: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1650298121</timemodified>
+              <steps>
+                <step id="686868">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650297957</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7703,7704,7705,7706,7707</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686879">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298002</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686891">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1650298121</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229893">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2488</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider which basic skills students will practice and develop.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1650298121</timemodified>
+              <steps>
+                <step id="686869">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650297957</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7708,7709,7710,7711,7712</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686883">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298012</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686892">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1650298121</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229894">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2489</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity to learn and practice soft or professional skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1650298121</timemodified>
+              <steps>
+                <step id="686870">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650297957</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7713,7714,7715,7716,7717</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686884">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298020</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686893">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1650298121</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229895">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2490</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I collaborate with or seek input from content or industry experts to inform unit or course content. 
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650298121</timemodified>
+              <steps>
+                <step id="686871">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650297957</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7718,7719,7720,7721,7722</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686885">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298079</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686894">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650298121</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229896">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2491</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how the skills and content relate to a career or the workplace in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1650298121</timemodified>
+              <steps>
+                <step id="686872">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650297957</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7723,7724,7725,7726,7727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686886">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298079</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686895">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1650298121</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229897">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2492</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity digital literacy and technology skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650298121</timemodified>
+              <steps>
+                <step id="686873">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650297957</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7728,7729,7730,7731,7732</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686887">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298099</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686896">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650298121</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229898">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2493</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have multiple opportunities to demonstrate or share what they have learned.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1650298121</timemodified>
+              <steps>
+                <step id="686874">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650297957</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7733,7734,7735,7736,7737</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686888">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298113</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686897">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1650298121</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229899">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2494</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider formative assessments in a realistic and meaningful context to evaluate student learning.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650298121</timemodified>
+              <steps>
+                <step id="686875">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650297957</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7738,7739,7740,7741,7742</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686889">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298113</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686898">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650298121</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="45694">
+        <userid>26887</userid>
+        <attemptnum>2</attemptnum>
+        <uniqueid>45727</uniqueid>
+        <layout>1,2,0,3,0,4,0,5,6,0,7,0,8,9,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1650298180</timestart>
+        <timefinish>1650298251</timefinish>
+        <timemodified>1650298251</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>44.00000</sumgrades>
+        <question_usage id="45727">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="229900">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2486</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how to sequence activities and content using backward design.
+: Always; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always</rightanswer>
+              <responsesummary>Always</responsesummary>
+              <timemodified>1650298251</timemodified>
+              <steps>
+                <step id="686899">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298180</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7698,7699,7700,7701,7702</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686908">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298191</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686917">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1650298251</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229901">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2487</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider and apply principles of adult learning to help learners acquire, retain, and transfer new knowledge and skills.: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1650298251</timemodified>
+              <steps>
+                <step id="686900">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298180</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7703,7704,7705,7706,7707</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686909">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298191</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686918">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1650298251</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229902">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2488</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider which basic skills students will practice and develop.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1650298251</timemodified>
+              <steps>
+                <step id="686901">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298180</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7708,7709,7710,7711,7712</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686910">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298198</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686919">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1650298251</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229903">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2489</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity to learn and practice soft or professional skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1650298251</timemodified>
+              <steps>
+                <step id="686902">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298180</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7713,7714,7715,7716,7717</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686911">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298208</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686920">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1650298251</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229904">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2490</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I collaborate with or seek input from content or industry experts to inform unit or course content. 
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1650298251</timemodified>
+              <steps>
+                <step id="686903">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298180</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7718,7719,7720,7721,7722</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686912">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298221</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686921">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1650298251</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229905">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2491</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how the skills and content relate to a career or the workplace in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1650298251</timemodified>
+              <steps>
+                <step id="686904">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298180</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7723,7724,7725,7726,7727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686913">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298221</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686922">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1650298251</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229906">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2492</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity digital literacy and technology skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1650298251</timemodified>
+              <steps>
+                <step id="686905">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298180</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7728,7729,7730,7731,7732</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686914">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298227</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686923">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1650298251</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229907">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2493</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have multiple opportunities to demonstrate or share what they have learned.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1650298251</timemodified>
+              <steps>
+                <step id="686906">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298180</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7733,7734,7735,7736,7737</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686915">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298241</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686924">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1650298251</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="229908">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2494</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider formative assessments in a realistic and meaningful context to evaluate student learning.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1650298251</timemodified>
+              <steps>
+                <step id="686907">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298180</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7738,7739,7740,7741,7742</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686916">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650298241</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="686925">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1650298251</timecreated>
+                  <userid>26887</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="45854">
+        <userid>28210</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>45887</uniqueid>
+        <layout>1,2,0,3,0,4,0,5,6,0,7,0,8,9,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1650986661</timestart>
+        <timefinish>1650987124</timefinish>
+        <timemodified>1650987124</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>26.00000</sumgrades>
+        <question_usage id="45887">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="230808">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2486</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how to sequence activities and content using backward design.
+: Always; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always</rightanswer>
+              <responsesummary>Occasionally
+
+</responsesummary>
+              <timemodified>1650987124</timemodified>
+              <steps>
+                <step id="689543">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650986661</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7698,7699,7700,7701,7702</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689552">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650987070</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>3</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689561">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.4000000</fraction>
+                  <timecreated>1650987124</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="230809">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2487</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider and apply principles of adult learning to help learners acquire, retain, and transfer new knowledge and skills.: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650987124</timemodified>
+              <steps>
+                <step id="689544">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650986661</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7703,7704,7705,7706,7707</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689553">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650987070</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689562">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650987124</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="230810">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2488</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider which basic skills students will practice and develop.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650987124</timemodified>
+              <steps>
+                <step id="689545">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650986661</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7708,7709,7710,7711,7712</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689554">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650987075</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689563">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650987124</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="230811">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2489</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity to learn and practice soft or professional skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650987124</timemodified>
+              <steps>
+                <step id="689546">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650986661</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7713,7714,7715,7716,7717</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689555">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650987083</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689564">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650987124</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="230812">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2490</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I collaborate with or seek input from content or industry experts to inform unit or course content. 
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650987124</timemodified>
+              <steps>
+                <step id="689547">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650986661</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7718,7719,7720,7721,7722</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689556">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650987090</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689565">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650987124</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="230813">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2491</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how the skills and content relate to a career or the workplace in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650987124</timemodified>
+              <steps>
+                <step id="689548">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650986661</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7723,7724,7725,7726,7727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689557">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650987090</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689566">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650987124</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="230814">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2492</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity digital literacy and technology skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650987124</timemodified>
+              <steps>
+                <step id="689549">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650986661</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7728,7729,7730,7731,7732</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689558">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650987094</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689567">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650987124</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="230815">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2493</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have multiple opportunities to demonstrate or share what they have learned.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650987124</timemodified>
+              <steps>
+                <step id="689550">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650986661</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7733,7734,7735,7736,7737</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689559">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650987099</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689568">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650987124</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="230816">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2494</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider formative assessments in a realistic and meaningful context to evaluate student learning.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1650987124</timemodified>
+              <steps>
+                <step id="689551">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650986661</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7738,7739,7740,7741,7742</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689560">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1650987099</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="689569">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1650987124</timecreated>
+                  <userid>28210</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="46103">
+        <userid>28288</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>46136</uniqueid>
+        <layout>1,2,0,3,0,4,0,5,6,0,7,0,8,9,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1652122577</timestart>
+        <timefinish>1652122635</timefinish>
+        <timemodified>1652122635</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>33.00000</sumgrades>
+        <question_usage id="46136">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="232250">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2486</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how to sequence activities and content using backward design.
+: Always; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1652122635</timemodified>
+              <steps>
+                <step id="693668">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122577</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7698,7699,7700,7701,7702</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693677">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122590</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693686">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1652122635</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="232251">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2487</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider and apply principles of adult learning to help learners acquire, retain, and transfer new knowledge and skills.: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1652122635</timemodified>
+              <steps>
+                <step id="693669">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122577</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7703,7704,7705,7706,7707</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693678">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122590</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693687">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1652122635</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="232252">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2488</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider which basic skills students will practice and develop.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1652122635</timemodified>
+              <steps>
+                <step id="693670">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122577</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7708,7709,7710,7711,7712</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693679">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122598</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693688">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1652122635</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="232253">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2489</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity to learn and practice soft or professional skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652122635</timemodified>
+              <steps>
+                <step id="693671">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122577</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7713,7714,7715,7716,7717</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693680">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122605</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693689">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652122635</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="232254">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2490</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I collaborate with or seek input from content or industry experts to inform unit or course content. 
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652122635</timemodified>
+              <steps>
+                <step id="693672">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122577</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7718,7719,7720,7721,7722</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693681">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122613</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693690">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652122635</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="232255">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2491</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how the skills and content relate to a career or the workplace in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652122635</timemodified>
+              <steps>
+                <step id="693673">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122577</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7723,7724,7725,7726,7727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693682">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122613</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693691">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652122635</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="232256">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2492</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity digital literacy and technology skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652122635</timemodified>
+              <steps>
+                <step id="693674">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122577</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7728,7729,7730,7731,7732</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693683">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122620</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693692">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652122635</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="232257">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2493</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have multiple opportunities to demonstrate or share what they have learned.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652122635</timemodified>
+              <steps>
+                <step id="693675">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122577</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7733,7734,7735,7736,7737</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693684">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122628</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693693">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652122635</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="232258">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2494</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider formative assessments in a realistic and meaningful context to evaluate student learning.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652122635</timemodified>
+              <steps>
+                <step id="693676">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122577</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7738,7739,7740,7741,7742</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693685">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652122628</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="693694">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652122635</timecreated>
+                  <userid>28288</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="46299">
+        <userid>26631</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>46332</uniqueid>
+        <layout>1,2,0,3,0,4,0,5,6,0,7,0,8,9,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1652635775</timestart>
+        <timefinish>1652635861</timefinish>
+        <timemodified>1652635861</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>42.00000</sumgrades>
+        <question_usage id="46332">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="233485">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2486</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how to sequence activities and content using backward design.
+: Always; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652635861</timemodified>
+              <steps>
+                <step id="697262">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635775</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7698,7699,7700,7701,7702</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697271">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635793</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697280">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652635861</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="233486">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2487</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider and apply principles of adult learning to help learners acquire, retain, and transfer new knowledge and skills.: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652635861</timemodified>
+              <steps>
+                <step id="697263">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635775</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7703,7704,7705,7706,7707</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697272">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635793</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697281">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652635861</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="233487">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2488</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider which basic skills students will practice and develop.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1652635861</timemodified>
+              <steps>
+                <step id="697264">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635775</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7708,7709,7710,7711,7712</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697273">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635800</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697282">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1652635861</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="233488">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2489</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity to learn and practice soft or professional skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1652635861</timemodified>
+              <steps>
+                <step id="697265">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635775</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7713,7714,7715,7716,7717</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697274">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635809</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697283">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1652635861</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="233489">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2490</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I collaborate with or seek input from content or industry experts to inform unit or course content. 
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1652635861</timemodified>
+              <steps>
+                <step id="697266">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635775</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7718,7719,7720,7721,7722</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697275">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635825</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697284">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1652635861</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="233490">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2491</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how the skills and content relate to a career or the workplace in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1652635861</timemodified>
+              <steps>
+                <step id="697267">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635775</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7723,7724,7725,7726,7727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697276">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635825</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697285">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1652635861</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="233491">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2492</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity digital literacy and technology skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652635861</timemodified>
+              <steps>
+                <step id="697268">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635775</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7728,7729,7730,7731,7732</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697277">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635834</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697286">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652635861</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="233492">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2493</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have multiple opportunities to demonstrate or share what they have learned.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1652635861</timemodified>
+              <steps>
+                <step id="697269">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635775</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7733,7734,7735,7736,7737</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697278">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635849</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697287">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1652635861</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="233493">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2494</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider formative assessments in a realistic and meaningful context to evaluate student learning.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1652635861</timemodified>
+              <steps>
+                <step id="697270">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635775</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7738,7739,7740,7741,7742</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697279">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652635849</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="697288">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1652635861</timecreated>
+                  <userid>26631</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+      <attempt id="46467">
+        <userid>28338</userid>
+        <attemptnum>1</attemptnum>
+        <uniqueid>46500</uniqueid>
+        <layout>1,2,0,3,0,4,0,5,6,0,7,0,8,9,0</layout>
+        <currentpage>5</currentpage>
+        <preview>0</preview>
+        <state>finished</state>
+        <timestart>1652928538</timestart>
+        <timefinish>1652928906</timefinish>
+        <timemodified>1652928906</timemodified>
+        <timemodifiedoffline>0</timemodifiedoffline>
+        <timecheckstate>$@NULL@$</timecheckstate>
+        <sumgrades>34.00000</sumgrades>
+        <question_usage id="46500">
+          <component>mod_quiz</component>
+          <preferredbehaviour>deferredfeedback</preferredbehaviour>
+          <question_attempts>
+            <question_attempt id="234393">
+              <slot>1</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2486</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how to sequence activities and content using backward design.
+: Always; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always</rightanswer>
+              <responsesummary>Rarely</responsesummary>
+              <timemodified>1652928906</timemodified>
+              <steps>
+                <step id="699932">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928538</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7698,7699,7700,7701,7702</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699941">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928588</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>4</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699950">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.2000000</fraction>
+                  <timecreated>1652928906</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="234394">
+              <slot>2</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2487</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider and apply principles of adult learning to help learners acquire, retain, and transfer new knowledge and skills.: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1652928906</timemodified>
+              <steps>
+                <step id="699933">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928538</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7703,7704,7705,7706,7707</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699942">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928588</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699951">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1652928906</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="234395">
+              <slot>3</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2488</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider which basic skills students will practice and develop.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652928906</timemodified>
+              <steps>
+                <step id="699934">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928538</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7708,7709,7710,7711,7712</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699943">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928609</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699952">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652928906</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="234396">
+              <slot>4</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2489</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity to learn and practice soft or professional skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652928906</timemodified>
+              <steps>
+                <step id="699935">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928538</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7713,7714,7715,7716,7717</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699944">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928627</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699953">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652928906</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="234397">
+              <slot>5</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2490</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I collaborate with or seek input from content or industry experts to inform unit or course content. 
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652928906</timemodified>
+              <steps>
+                <step id="699936">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928538</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7718,7719,7720,7721,7722</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699945">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928684</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699954">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652928906</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="234398">
+              <slot>6</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2491</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how the skills and content relate to a career or the workplace in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652928906</timemodified>
+              <steps>
+                <step id="699937">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928538</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7723,7724,7725,7726,7727</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699946">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928684</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699955">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652928906</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="234399">
+              <slot>7</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2492</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have an opportunity digital literacy and technology skills in a meaningful context.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Most of the time
+</responsesummary>
+              <timemodified>1652928906</timemodified>
+              <steps>
+                <step id="699938">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928538</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7728,7729,7730,7731,7732</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699947">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928782</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699956">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.8000000</fraction>
+                  <timecreated>1652928906</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="234400">
+              <slot>8</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2493</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider how students will have multiple opportunities to demonstrate or share what they have learned.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Always
+</responsesummary>
+              <timemodified>1652928906</timemodified>
+              <steps>
+                <step id="699939">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928538</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7733,7734,7735,7736,7737</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699948">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928825</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>0</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699957">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedright</state>
+                  <fraction>1.0000000</fraction>
+                  <timecreated>1652928906</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+            <question_attempt id="234401">
+              <slot>9</slot>
+              <behaviour>deferredfeedback</behaviour>
+              <questionid>2494</questionid>
+              <variant>1</variant>
+              <maxmark>5.0000000</maxmark>
+              <minfraction>0.0000000</minfraction>
+              <maxfraction>1.0000000</maxfraction>
+              <flagged>0</flagged>
+              <questionsummary>I consider formative assessments in a realistic and meaningful context to evaluate student learning.
+: Always
+; Most of the time
+; Some of the time
+; Occasionally
+
+; Rarely</questionsummary>
+              <rightanswer>Always
+</rightanswer>
+              <responsesummary>Some of the time
+</responsesummary>
+              <timemodified>1652928906</timemodified>
+              <steps>
+                <step id="699940">
+                  <sequencenumber>0</sequencenumber>
+                  <state>todo</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928538</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>_order</name>
+                      <value>7738,7739,7740,7741,7742</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699949">
+                  <sequencenumber>1</sequencenumber>
+                  <state>complete</state>
+                  <fraction>$@NULL@$</fraction>
+                  <timecreated>1652928825</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>answer</name>
+                      <value>2</value>
+                    </variable>
+                  </response>
+                </step>
+                <step id="699958">
+                  <sequencenumber>2</sequencenumber>
+                  <state>gradedpartial</state>
+                  <fraction>0.6000000</fraction>
+                  <timecreated>1652928906</timecreated>
+                  <userid>28338</userid>
+                  <response>
+                    <variable>
+                      <name>-finish</name>
+                      <value>1</value>
+                    </variable>
+                  </response>
+                </step>
+              </steps>
+            </question_attempt>
+          </question_attempts>
+        </question_usage>
+      </attempt>
+    </attempts>
+  </quiz>
+</activity>

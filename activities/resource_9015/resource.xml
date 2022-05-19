@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="207" moduleid="9015" modulename="resource" contextid="57291">
+  <resource id="207">
+    <name>Unit 1: Understanding Adult Career Pathways</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 1.7rem;"&gt;Review the Navigation &amp;amp; Accessibility section, then continue to other sections to complete the unit.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em style="font-size: 1.7rem;"&gt;The default view opens the unit in&amp;nbsp;this&amp;nbsp;browser window.&amp;nbsp;Alternate viewing option: &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/57291/mod_resource/content/13/content/index.html" target="_blank"&gt;Open the unit in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>15</revision>
+    <timemodified>1649196569</timemodified>
+  </resource>
+</activity>

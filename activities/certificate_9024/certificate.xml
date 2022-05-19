@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="224" moduleid="9024" modulename="certificate" contextid="57300">
+  <certificate id="224">
+    <name>Course Completion Certificate</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations! You have successfully completed Instructional Considerations for Adult Career Pathways!&lt;/p&gt;
+&lt;p&gt;Upon successful completion of both quizzes, you may &lt;i&gt;generate a certificate of course completion&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>0</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>2</printdate>
+    <datefmt>1</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>3</printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>Cheryl-Keenan.png</printsignature>
+    <printseal>LINCS-Logo-Color-small.png</printseal>
+    <timecreated>1668278031</timecreated>
+    <timemodified>1691944015</timemodified>
+    <issues>
+      <issue id="35032">
+        <certificateid>224</certificateid>
+        <userid>26887</userid>
+        <timecreated>1650567212</timecreated>
+        <code>axp4QlcHi5</code>
+      </issue>
+      <issue id="35064">
+        <certificateid>224</certificateid>
+        <userid>28215</userid>
+        <timecreated>1650908740</timecreated>
+        <code>tECpWypRIo</code>
+      </issue>
+      <issue id="35076">
+        <certificateid>224</certificateid>
+        <userid>28210</userid>
+        <timecreated>1650988954</timecreated>
+        <code>0qef8ooNHG</code>
+      </issue>
+      <issue id="35211">
+        <certificateid>224</certificateid>
+        <userid>28288</userid>
+        <timecreated>1652126859</timecreated>
+        <code>HAyA3IzoRB</code>
+      </issue>
+      <issue id="35286">
+        <certificateid>224</certificateid>
+        <userid>26631</userid>
+        <timecreated>1652637373</timecreated>
+        <code>6CZIZsAnLV</code>
+      </issue>
+    </issues>
+  </certificate>
+</activity>

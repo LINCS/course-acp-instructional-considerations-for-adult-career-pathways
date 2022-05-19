@@ -1,0 +1,128 @@
+{
+  "version": "3.60.26947.0",
+  "course_id": "6FNQxly0kAv_course_id",
+  "title": "LINCS_ACP3_U5_Scenario",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Scenario"
+    },
+    {
+      "title": "Background"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6UzwD6O7fdL",
+      "title": "Backward Design in Action",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6aJA8QMr8Pd",
+      "title": "How to Use this Scenario",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6pBPulUQjxO",
+      "title": "Backward Design",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6oWmsTac2kI",
+      "title": "Stage 1 of Backward Design With ACPs: Identify Desired Results",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6potu57Gsyk",
+      "title": "Stage 1 of Backward Design With ACPs: Identify Desired Results",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6Q9Qz0yEEnV",
+      "title": "Stage 2 of Backward Design With ACPs: Determine Acceptable Evidence",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5WHLNtKYGvU",
+      "title": "Stage 2 of Backward Design With ACPs: Determine Acceptable Evidence",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6IdbzgvSKjS",
+      "title": "Stage 2 of Backward Design With ACPs: Determine Acceptable Evidence",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "5WRrEX7BalB",
+      "title": "Stage 2 of Backward Design With ACPs: Determine Acceptable Evidence",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5giviw5T6S3",
+      "title": "Academic",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "676Il5bYG1z",
+      "title": "Workplace",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "6VC5IgKZZdA",
+      "title": "Employability",
+      "scene_index": "2.10"
+    },
+    {
+      "id": "6k0oD3q1XHj",
+      "title": "TechDig",
+      "scene_index": "2.11"
+    },
+    {
+      "id": "5huXnT7Q8CA",
+      "title": "Stage 3 of Backward Design With ACPs: \rPlan Learning Experiences and Instruction ",
+      "scene_index": "2.12"
+    },
+    {
+      "id": "6QV6y0sRJVU",
+      "title": "Congratulations",
+      "scene_index": "2.13"
+    },
+    {
+      "id": "65VNQ8INerB",
+      "title": "Background",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6RF9dUiBm3e",
+      "title": "Background",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5bSadEjS4LJ",
+      "title": "Background",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5ztDQdpiI87",
+      "title": "Guiding Questions",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6oYLFUDsb0M",
+      "title": "Roberto’s Skills Brainstorm",
+      "scene_index": "3.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

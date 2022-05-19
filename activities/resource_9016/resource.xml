@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="208" moduleid="9016" modulename="resource" contextid="57292">
+  <resource id="208">
+    <name>Unit 2: Components of Adult Career Pathways</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in&amp;nbsp;this&amp;nbsp;browser window.&amp;nbsp;Alternate viewing option: &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/57292/mod_resource/content/14/content/index.html" target="_blank"&gt;Open the unit in a new browser&amp;nbsp;window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>16</revision>
+    <timemodified>1649194136</timemodified>
+  </resource>
+</activity>

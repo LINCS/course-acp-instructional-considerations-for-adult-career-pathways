@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="209" moduleid="9017" modulename="resource" contextid="57293">
+  <resource id="209">
+    <name>Unit 3: Instructional Approaches to Adult Career Pathways</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in&amp;nbsp;this&amp;nbsp;browser window.&amp;nbsp;Alternate viewing option: &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/57293/mod_resource/content/13/content/index.html" target="_blank"&gt;Open the unit in a new browser window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>16</revision>
+    <timemodified>1649207580</timemodified>
+  </resource>
+</activity>

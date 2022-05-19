@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="8" moduleid="9021" modulename="h5pactivity" contextid="57297">
+  <h5pactivity id="8">
+    <name>Final Learning Check</name>
+    <timecreated>1624301943</timecreated>
+    <timemodified>1649182596</timemodified>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;You’re&lt;span&gt; just about finished the Instructional Considerations for Adult Career Pathways cour&lt;/span&gt;se. Read the questions in this quiz and choose the best answer. Once finished, select the link titled "Course Evaluation" at the bottom to move on.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <grade>100</grade>
+    <displayoptions>15</displayoptions>
+    <enabletracking>1</enabletracking>
+    <grademethod>1</grademethod>
+    <reviewmode>1</reviewmode>
+    <attempts>
+      <attempt id="25">
+        <h5pactivityid>8</h5pactivityid>
+        <userid>26887</userid>
+        <timecreated>1650567192</timecreated>
+        <timemodified>1650567192</timemodified>
+        <attempt>1</attempt>
+        <rawscore>6</rawscore>
+        <maxscore>6</maxscore>
+        <duration>55</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="134">
+            <attemptid>25</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650567192</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10},"contextExtensions":{}}</additionals>
+            <rawscore>6</rawscore>
+            <maxscore>6</maxscore>
+            <duration>55</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="135">
+            <attemptid>25</attemptid>
+            <subcontent>279fa477-5196-44ac-9e02-3d634d5dd587</subcontent>
+            <timecreated>1650567192</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways accelerates the progress of students by offering career content while developing basic skills.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"279fa477-5196-44ac-9e02-3d634d5dd587"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>55</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="136">
+            <attemptid>25</attemptid>
+            <subcontent>8b9aa4f3-ae98-41b1-93c4-4f49ac872917</subcontent>
+            <timecreated>1650567192</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways focuses on students applying their skills and knowledge in the real world.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"8b9aa4f3-ae98-41b1-93c4-4f49ac872917"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>39</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="137">
+            <attemptid>25</attemptid>
+            <subcontent>cd098bdc-6680-4b21-a1d1-b108e64e0e2c</subcontent>
+            <timecreated>1650567192</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways uses authentic assessments to evaluate student learning.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"cd098bdc-6680-4b21-a1d1-b108e64e0e2c"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>32</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="138">
+            <attemptid>25</attemptid>
+            <subcontent>f10e23be-c10b-4d35-868a-538c714ab26e</subcontent>
+            <timecreated>1650567192</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult educators must be experts in the career or technical field of the ACP.
+</description>
+            <correctpattern>["false"]</correctpattern>
+            <response>false</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f10e23be-c10b-4d35-868a-538c714ab26e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>26</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="139">
+            <attemptid>25</attemptid>
+            <subcontent>89b2968b-95f4-47f2-887b-182db735324b</subcontent>
+            <timecreated>1650567192</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult Education Teacher Competencies are organized in four broad domains and includes: Plans and delivers high-quality evidence-based instruction.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"89b2968b-95f4-47f2-887b-182db735324b"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>20</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="140">
+            <attemptid>25</attemptid>
+            <subcontent>fbf44624-4966-4ce9-b8e7-ec3fd485118e</subcontent>
+            <timecreated>1650567192</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Active learning strategies, visible learning, and project-based learning are instructional strategies that enhance contextualized instruction for ACPs.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"fbf44624-4966-4ce9-b8e7-ec3fd485118e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>6</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="36">
+        <h5pactivityid>8</h5pactivityid>
+        <userid>28215</userid>
+        <timecreated>1650908730</timecreated>
+        <timemodified>1650908730</timemodified>
+        <attempt>1</attempt>
+        <rawscore>6</rawscore>
+        <maxscore>6</maxscore>
+        <duration>61</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="209">
+            <attemptid>36</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650908730</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10},"contextExtensions":{}}</additionals>
+            <rawscore>6</rawscore>
+            <maxscore>6</maxscore>
+            <duration>61</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="210">
+            <attemptid>36</attemptid>
+            <subcontent>279fa477-5196-44ac-9e02-3d634d5dd587</subcontent>
+            <timecreated>1650908730</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways accelerates the progress of students by offering career content while developing basic skills.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"279fa477-5196-44ac-9e02-3d634d5dd587"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>61</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="211">
+            <attemptid>36</attemptid>
+            <subcontent>8b9aa4f3-ae98-41b1-93c4-4f49ac872917</subcontent>
+            <timecreated>1650908730</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways focuses on students applying their skills and knowledge in the real world.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"8b9aa4f3-ae98-41b1-93c4-4f49ac872917"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>50</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="212">
+            <attemptid>36</attemptid>
+            <subcontent>cd098bdc-6680-4b21-a1d1-b108e64e0e2c</subcontent>
+            <timecreated>1650908730</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways uses authentic assessments to evaluate student learning.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"cd098bdc-6680-4b21-a1d1-b108e64e0e2c"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>44</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="213">
+            <attemptid>36</attemptid>
+            <subcontent>f10e23be-c10b-4d35-868a-538c714ab26e</subcontent>
+            <timecreated>1650908730</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult educators must be experts in the career or technical field of the ACP.
+</description>
+            <correctpattern>["false"]</correctpattern>
+            <response>false</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f10e23be-c10b-4d35-868a-538c714ab26e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>35</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="214">
+            <attemptid>36</attemptid>
+            <subcontent>89b2968b-95f4-47f2-887b-182db735324b</subcontent>
+            <timecreated>1650908730</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult Education Teacher Competencies are organized in four broad domains and includes: Plans and delivers high-quality evidence-based instruction.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"89b2968b-95f4-47f2-887b-182db735324b"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>26</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="215">
+            <attemptid>36</attemptid>
+            <subcontent>fbf44624-4966-4ce9-b8e7-ec3fd485118e</subcontent>
+            <timecreated>1650908730</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Active learning strategies, visible learning, and project-based learning are instructional strategies that enhance contextualized instruction for ACPs.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"fbf44624-4966-4ce9-b8e7-ec3fd485118e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>18</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="37">
+        <h5pactivityid>8</h5pactivityid>
+        <userid>28215</userid>
+        <timecreated>1650910667</timecreated>
+        <timemodified>1650910667</timemodified>
+        <attempt>2</attempt>
+        <rawscore>6</rawscore>
+        <maxscore>6</maxscore>
+        <duration>34</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="216">
+            <attemptid>37</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650910667</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10},"contextExtensions":{}}</additionals>
+            <rawscore>6</rawscore>
+            <maxscore>6</maxscore>
+            <duration>34</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="217">
+            <attemptid>37</attemptid>
+            <subcontent>279fa477-5196-44ac-9e02-3d634d5dd587</subcontent>
+            <timecreated>1650910667</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways accelerates the progress of students by offering career content while developing basic skills.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"279fa477-5196-44ac-9e02-3d634d5dd587"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>34</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="218">
+            <attemptid>37</attemptid>
+            <subcontent>8b9aa4f3-ae98-41b1-93c4-4f49ac872917</subcontent>
+            <timecreated>1650910667</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways focuses on students applying their skills and knowledge in the real world.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"8b9aa4f3-ae98-41b1-93c4-4f49ac872917"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>21</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="219">
+            <attemptid>37</attemptid>
+            <subcontent>cd098bdc-6680-4b21-a1d1-b108e64e0e2c</subcontent>
+            <timecreated>1650910667</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways uses authentic assessments to evaluate student learning.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"cd098bdc-6680-4b21-a1d1-b108e64e0e2c"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>17</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="220">
+            <attemptid>37</attemptid>
+            <subcontent>f10e23be-c10b-4d35-868a-538c714ab26e</subcontent>
+            <timecreated>1650910667</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult educators must be experts in the career or technical field of the ACP.
+</description>
+            <correctpattern>["false"]</correctpattern>
+            <response>false</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f10e23be-c10b-4d35-868a-538c714ab26e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>14</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="221">
+            <attemptid>37</attemptid>
+            <subcontent>89b2968b-95f4-47f2-887b-182db735324b</subcontent>
+            <timecreated>1650910667</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult Education Teacher Competencies are organized in four broad domains and includes: Plans and delivers high-quality evidence-based instruction.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"89b2968b-95f4-47f2-887b-182db735324b"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>7</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="222">
+            <attemptid>37</attemptid>
+            <subcontent>fbf44624-4966-4ce9-b8e7-ec3fd485118e</subcontent>
+            <timecreated>1650910667</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Active learning strategies, visible learning, and project-based learning are instructional strategies that enhance contextualized instruction for ACPs.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"fbf44624-4966-4ce9-b8e7-ec3fd485118e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>3</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="39">
+        <h5pactivityid>8</h5pactivityid>
+        <userid>28215</userid>
+        <timecreated>1650911038</timecreated>
+        <timemodified>1650911038</timemodified>
+        <attempt>3</attempt>
+        <rawscore>6</rawscore>
+        <maxscore>6</maxscore>
+        <duration>24</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="227">
+            <attemptid>39</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650911038</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10},"contextExtensions":{}}</additionals>
+            <rawscore>6</rawscore>
+            <maxscore>6</maxscore>
+            <duration>24</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="228">
+            <attemptid>39</attemptid>
+            <subcontent>279fa477-5196-44ac-9e02-3d634d5dd587</subcontent>
+            <timecreated>1650911038</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways accelerates the progress of students by offering career content while developing basic skills.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"279fa477-5196-44ac-9e02-3d634d5dd587"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>24</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="229">
+            <attemptid>39</attemptid>
+            <subcontent>8b9aa4f3-ae98-41b1-93c4-4f49ac872917</subcontent>
+            <timecreated>1650911038</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways focuses on students applying their skills and knowledge in the real world.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"8b9aa4f3-ae98-41b1-93c4-4f49ac872917"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>19</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="230">
+            <attemptid>39</attemptid>
+            <subcontent>cd098bdc-6680-4b21-a1d1-b108e64e0e2c</subcontent>
+            <timecreated>1650911038</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways uses authentic assessments to evaluate student learning.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"cd098bdc-6680-4b21-a1d1-b108e64e0e2c"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>16</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="231">
+            <attemptid>39</attemptid>
+            <subcontent>f10e23be-c10b-4d35-868a-538c714ab26e</subcontent>
+            <timecreated>1650911038</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult educators must be experts in the career or technical field of the ACP.
+</description>
+            <correctpattern>["false"]</correctpattern>
+            <response>false</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f10e23be-c10b-4d35-868a-538c714ab26e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>13</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="232">
+            <attemptid>39</attemptid>
+            <subcontent>89b2968b-95f4-47f2-887b-182db735324b</subcontent>
+            <timecreated>1650911038</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult Education Teacher Competencies are organized in four broad domains and includes: Plans and delivers high-quality evidence-based instruction.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"89b2968b-95f4-47f2-887b-182db735324b"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>9</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="233">
+            <attemptid>39</attemptid>
+            <subcontent>fbf44624-4966-4ce9-b8e7-ec3fd485118e</subcontent>
+            <timecreated>1650911038</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Active learning strategies, visible learning, and project-based learning are instructional strategies that enhance contextualized instruction for ACPs.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"fbf44624-4966-4ce9-b8e7-ec3fd485118e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>4</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="47">
+        <h5pactivityid>8</h5pactivityid>
+        <userid>28210</userid>
+        <timecreated>1650988945</timecreated>
+        <timemodified>1650988945</timemodified>
+        <attempt>1</attempt>
+        <rawscore>6</rawscore>
+        <maxscore>6</maxscore>
+        <duration>38</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="269">
+            <attemptid>47</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1650988945</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10},"contextExtensions":{}}</additionals>
+            <rawscore>6</rawscore>
+            <maxscore>6</maxscore>
+            <duration>38</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="270">
+            <attemptid>47</attemptid>
+            <subcontent>279fa477-5196-44ac-9e02-3d634d5dd587</subcontent>
+            <timecreated>1650988945</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways accelerates the progress of students by offering career content while developing basic skills.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"279fa477-5196-44ac-9e02-3d634d5dd587"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>38</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="271">
+            <attemptid>47</attemptid>
+            <subcontent>8b9aa4f3-ae98-41b1-93c4-4f49ac872917</subcontent>
+            <timecreated>1650988945</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways focuses on students applying their skills and knowledge in the real world.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"8b9aa4f3-ae98-41b1-93c4-4f49ac872917"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>30</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="272">
+            <attemptid>47</attemptid>
+            <subcontent>cd098bdc-6680-4b21-a1d1-b108e64e0e2c</subcontent>
+            <timecreated>1650988945</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways uses authentic assessments to evaluate student learning.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"cd098bdc-6680-4b21-a1d1-b108e64e0e2c"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>25</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="273">
+            <attemptid>47</attemptid>
+            <subcontent>f10e23be-c10b-4d35-868a-538c714ab26e</subcontent>
+            <timecreated>1650988945</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult educators must be experts in the career or technical field of the ACP.
+</description>
+            <correctpattern>["false"]</correctpattern>
+            <response>false</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f10e23be-c10b-4d35-868a-538c714ab26e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>19</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="274">
+            <attemptid>47</attemptid>
+            <subcontent>89b2968b-95f4-47f2-887b-182db735324b</subcontent>
+            <timecreated>1650988945</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult Education Teacher Competencies are organized in four broad domains and includes: Plans and delivers high-quality evidence-based instruction.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"89b2968b-95f4-47f2-887b-182db735324b"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>15</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="275">
+            <attemptid>47</attemptid>
+            <subcontent>fbf44624-4966-4ce9-b8e7-ec3fd485118e</subcontent>
+            <timecreated>1650988945</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Active learning strategies, visible learning, and project-based learning are instructional strategies that enhance contextualized instruction for ACPs.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"fbf44624-4966-4ce9-b8e7-ec3fd485118e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>8</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="88">
+        <h5pactivityid>8</h5pactivityid>
+        <userid>28288</userid>
+        <timecreated>1652126771</timecreated>
+        <timemodified>1652126771</timemodified>
+        <attempt>1</attempt>
+        <rawscore>6</rawscore>
+        <maxscore>6</maxscore>
+        <duration>67</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="511">
+            <attemptid>88</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652126771</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10},"contextExtensions":{}}</additionals>
+            <rawscore>6</rawscore>
+            <maxscore>6</maxscore>
+            <duration>67</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="512">
+            <attemptid>88</attemptid>
+            <subcontent>279fa477-5196-44ac-9e02-3d634d5dd587</subcontent>
+            <timecreated>1652126771</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways accelerates the progress of students by offering career content while developing basic skills.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"279fa477-5196-44ac-9e02-3d634d5dd587"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>67</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="513">
+            <attemptid>88</attemptid>
+            <subcontent>8b9aa4f3-ae98-41b1-93c4-4f49ac872917</subcontent>
+            <timecreated>1652126771</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways focuses on students applying their skills and knowledge in the real world.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"8b9aa4f3-ae98-41b1-93c4-4f49ac872917"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>51</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="514">
+            <attemptid>88</attemptid>
+            <subcontent>cd098bdc-6680-4b21-a1d1-b108e64e0e2c</subcontent>
+            <timecreated>1652126771</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways uses authentic assessments to evaluate student learning.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"cd098bdc-6680-4b21-a1d1-b108e64e0e2c"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>44</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="515">
+            <attemptid>88</attemptid>
+            <subcontent>f10e23be-c10b-4d35-868a-538c714ab26e</subcontent>
+            <timecreated>1652126771</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult educators must be experts in the career or technical field of the ACP.
+</description>
+            <correctpattern>["false"]</correctpattern>
+            <response>false</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f10e23be-c10b-4d35-868a-538c714ab26e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>37</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="516">
+            <attemptid>88</attemptid>
+            <subcontent>89b2968b-95f4-47f2-887b-182db735324b</subcontent>
+            <timecreated>1652126771</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult Education Teacher Competencies are organized in four broad domains and includes: Plans and delivers high-quality evidence-based instruction.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"89b2968b-95f4-47f2-887b-182db735324b"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>31</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="517">
+            <attemptid>88</attemptid>
+            <subcontent>fbf44624-4966-4ce9-b8e7-ec3fd485118e</subcontent>
+            <timecreated>1652126771</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Active learning strategies, visible learning, and project-based learning are instructional strategies that enhance contextualized instruction for ACPs.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"fbf44624-4966-4ce9-b8e7-ec3fd485118e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>13</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+      <attempt id="125">
+        <h5pactivityid>8</h5pactivityid>
+        <userid>26631</userid>
+        <timecreated>1652636673</timecreated>
+        <timemodified>1652636673</timemodified>
+        <attempt>1</attempt>
+        <rawscore>6</rawscore>
+        <maxscore>6</maxscore>
+        <duration>79</duration>
+        <completion>1</completion>
+        <success>1</success>
+        <scaled>1.00000</scaled>
+        <results>
+          <result id="708">
+            <attemptid>125</attemptid>
+            <subcontent></subcontent>
+            <timecreated>1652636673</timecreated>
+            <interactiontype>compound</interactiontype>
+            <description></description>
+            <correctpattern></correctpattern>
+            <response></response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10},"contextExtensions":{}}</additionals>
+            <rawscore>6</rawscore>
+            <maxscore>6</maxscore>
+            <duration>79</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="709">
+            <attemptid>125</attemptid>
+            <subcontent>279fa477-5196-44ac-9e02-3d634d5dd587</subcontent>
+            <timecreated>1652636673</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways accelerates the progress of students by offering career content while developing basic skills.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"279fa477-5196-44ac-9e02-3d634d5dd587"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>79</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="710">
+            <attemptid>125</attemptid>
+            <subcontent>8b9aa4f3-ae98-41b1-93c4-4f49ac872917</subcontent>
+            <timecreated>1652636673</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways focuses on students applying their skills and knowledge in the real world.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"8b9aa4f3-ae98-41b1-93c4-4f49ac872917"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>66</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="711">
+            <attemptid>125</attemptid>
+            <subcontent>cd098bdc-6680-4b21-a1d1-b108e64e0e2c</subcontent>
+            <timecreated>1652636673</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Contextualized Instruction in Adult Career Pathways uses authentic assessments to evaluate student learning.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"cd098bdc-6680-4b21-a1d1-b108e64e0e2c"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>54</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="712">
+            <attemptid>125</attemptid>
+            <subcontent>f10e23be-c10b-4d35-868a-538c714ab26e</subcontent>
+            <timecreated>1652636673</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult educators must be experts in the career or technical field of the ACP.
+</description>
+            <correctpattern>["false"]</correctpattern>
+            <response>false</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"f10e23be-c10b-4d35-868a-538c714ab26e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>43</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="713">
+            <attemptid>125</attemptid>
+            <subcontent>89b2968b-95f4-47f2-887b-182db735324b</subcontent>
+            <timecreated>1652636673</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Adult Education Teacher Competencies are organized in four broad domains and includes: Plans and delivers high-quality evidence-based instruction.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"89b2968b-95f4-47f2-887b-182db735324b"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>34</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+          <result id="714">
+            <attemptid>125</attemptid>
+            <subcontent>fbf44624-4966-4ce9-b8e7-ec3fd485118e</subcontent>
+            <timecreated>1652636673</timecreated>
+            <interactiontype>true-false</interactiontype>
+            <description>Active learning strategies, visible learning, and project-based learning are instructional strategies that enhance contextualized instruction for ACPs.
+</description>
+            <correctpattern>["true"]</correctpattern>
+            <response>true</response>
+            <additionals>{"extensions":{"http:\/\/h5p.org\/x-api\/h5p-local-content-id":10,"http:\/\/h5p.org\/x-api\/h5p-subContentId":"fbf44624-4966-4ce9-b8e7-ec3fd485118e"},"contextExtensions":{}}</additionals>
+            <rawscore>1</rawscore>
+            <maxscore>1</maxscore>
+            <duration>21</duration>
+            <completion>1</completion>
+            <success>1</success>
+          </result>
+        </results>
+      </attempt>
+    </attempts>
+  </h5pactivity>
+</activity>

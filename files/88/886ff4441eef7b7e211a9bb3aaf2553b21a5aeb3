@@ -1,0 +1,115 @@
+{
+  "version": "3.60.26947.0",
+  "course_id": "6Is8n2IQ0v2_course_id",
+  "title": "LINCS Course 3Web",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Scenario"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6UzwD6O7fdL",
+      "title": "Building a Bridge to College Program",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6aJA8QMr8Pd",
+      "title": "How to Use this Scenario",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6pBPulUQjxO",
+      "title": "Weaving It All Together",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6TeRmQJUmOD",
+      "title": "Activity",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "65VNQ8INerB",
+      "title": "Background",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6RF9dUiBm3e",
+      "title": "Background",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6FDj8KKHSP2",
+      "title": "Scenario",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "5ztDQdpiI87",
+      "title": "Guiding Questions",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6bs8cW5MG1M",
+      "title": "Four-Square Graphic Organizer",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5WHLNtKYGvU",
+      "title": "Four-Square Graphic Organizer",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "6IB47Ni0bjM",
+      "title": "Four-Square Graphic Organizer - Answer Instructions",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "6JFuxNy6MQE",
+      "title": "Four-Square Graphic Organizer",
+      "scene_index": "2.10"
+    },
+    {
+      "id": "5kcyNLkn9l3",
+      "title": "Four-Square Academic",
+      "scene_index": "2.11"
+    },
+    {
+      "id": "5YS8Sn0wH6I",
+      "title": "Four-Square Workplace",
+      "scene_index": "2.12"
+    },
+    {
+      "id": "6Z3VdUGCITW",
+      "title": "Four-Square Employ",
+      "scene_index": "2.13"
+    },
+    {
+      "id": "5sKmqB845Fb",
+      "title": "Four-Square TechDig",
+      "scene_index": "2.14"
+    },
+    {
+      "id": "5huXnT7Q8CA",
+      "title": "Reflection",
+      "scene_index": "2.15"
+    },
+    {
+      "id": "6QV6y0sRJVU",
+      "title": "Congratulations",
+      "scene_index": "2.16"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

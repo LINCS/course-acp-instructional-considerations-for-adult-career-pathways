@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="210" moduleid="9019" modulename="resource" contextid="57295">
+  <resource id="210">
+    <name>Unit 4: Teacher Competencies for Adult Career Pathways</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;The default view opens the unit in&amp;nbsp;this&amp;nbsp;browser window.&amp;nbsp;Alternate viewing option: &lt;a href="https://courses.lincs.ed.gov/pluginfile.php/57295/mod_resource/content/12/content/index.html" target="_blank"&gt;Open the unit in a new browser&amp;nbsp;window&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>17</revision>
+    <timemodified>1649196987</timemodified>
+  </resource>
+</activity>

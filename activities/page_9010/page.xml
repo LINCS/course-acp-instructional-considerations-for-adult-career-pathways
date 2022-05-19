@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2016" moduleid="9010" modulename="page" contextid="57286">
+  <page id="2016">
+    <name>Course Goals, Objectives, Description, Organization</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;Select to review the overview of what you'll learn in this course.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Goals for this Course&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Train adult educators to provide effective contextualized instruction to support learner success in career pathway courses.&lt;/li&gt;
+&lt;li&gt;Determine basic teacher competencies for adult career pathways instruction and self-assess which may need more focus.&lt;/li&gt;
+&lt;li&gt;Provide strategies and resources available for adult educators to incorporate into the contextualized adult career pathways classroom.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Course Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span&gt;The purpose of this course is to provide the relevant concepts and strategies for instructing adult basic skills students in a way that supports career pathway success. Participants will learn the characteristics of career pathways and research-based instructional strategies that are effective in helping learners be successful in technical training. Within the context of adult education teacher competencies, they will identify the particu&lt;/span&gt;lar skills that are important for effective career pathway instruction. Understanding the backward design of lesson plans will help teachers focus instruction on intended outcomes and successfully collaborate with partner teachers so that learners increase both their basic and their technical skills.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Course Objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Upon completion of this course, participants will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;strong style="font-weight: bold;"&gt;Articulate &lt;/strong&gt;t&lt;/span&gt;he definition, rationale and benefits of ACPs;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-weight: bold;"&gt;&lt;strong&gt;Describe&lt;/strong&gt; &lt;/span&gt;how ACP instruction is designed to simultaneously address college and career readiness, general workforce preparation, transitions to postsecondary education, and employability skills;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-weight: bold;"&gt;&lt;strong&gt;Identify&lt;/strong&gt; &lt;/span&gt;best practices and instructional approaches in the ACP classroom;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-weight: bold;"&gt;&lt;strong&gt;Describe&lt;/strong&gt; &lt;/span&gt;basic teacher competencies for ACP instruction and self-assess current competencies; and&lt;/li&gt;
+&lt;li&gt;&lt;strong style="font-weight: bold;"&gt;Plan&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;a lesson that is based on backward design and combines basic and technical skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Course Organization&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This course is organized in five units to provide participants the relevant concepts and strategies for instructing adult basic skills students in a way that supports career pathway success. Course participants will learn the characteristics of ACPs and research-based instructional strategies that are effective in helping learners be successful in a course that combines adult basic skills with technical training. Each unit has a focus on key considerations for adult educators in ACPs.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Understanding Adult Career Pathways&lt;/li&gt;
+&lt;li&gt;Components of Adult Career Pathways&lt;/li&gt;
+&lt;li&gt;Instructional Approaches in Adult Career Pathways&lt;/li&gt;
+&lt;li&gt;Teacher Competencies for Adult Career Pathways&lt;/li&gt;
+&lt;li&gt;Lesson Planning for Adult Career Pathways&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The course is organized to include a glossary, an introduction, core content, a summary of each section, and links to resources. The course also contains handouts and a note-taking guide.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2022-03/ho3-notetaking-guide.pdf" target="_blank"&gt;Download the note-taking guide&lt;/a&gt; you will use throughout this course.&lt;/p&gt;
+&lt;p&gt;To access each unit, please select the plus sign ‘+’ to the right of the learning activities tab below.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1648735706</timemodified>
+  </page>
+</activity>
